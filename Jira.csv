@@ -1,0 +1,181 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Blocks),Custom field (Actual Result),Custom field (Actual end),Custom field (Actual start),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Compass),Custom field (Description(New)),Custom field (Development),Custom field (Epic Link),Epic Link Summary,Custom field (Expected Result),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Test Steps),Custom field (Test level),Custom field (Total forms),Custom field ([CHART] Date of First Response),Custom field (testcase result),Status Category
+Mua sản phẩm tại giỏ hàng,NC-77,10334,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,3/22/2023 14:40,3/22/2023 14:40,3/22/2023 14:40,,,0,buy,"# Nhấp vào giỏ hàng
+# Chọn mua quyển sách Bí kíp độc thoại",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,,Điều hướng đến trang thanh toán và nhập các thông tin thanh toán,,,,,,,,,,NC-4,Buy,Điều hướng đến trang thanh toán và nhập các thông tin thanh toán,,,,,0|i00171:zi,,BAN Sprint 3,,,,,,,,"1. Bấm vào giỏ hàng
+2. Chọn mua sản bất kỳ trong giỏ hàng",SysTem,,,,To Do
+Mua sản phẩm tại trang chi tiết,NC-76,10333,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,3/22/2023 14:38,3/22/2023 14:38,3/22/2023 14:38,,,0,buy,"# Bấm xem chi tiết sách Ngữ Văn 6
+# Bấm nút mua hàng",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,,Điều hướng đến trang thanh toán và nhập các thông tin thanh toán,,,,,,,,,,NC-4,Buy,Điều hướng đến trang thanh toán và nhập các thông tin thanh toán,,,,,0|i00171:z,,BAN Sprint 3,,,,,,,,"1. Bấm xem chi tiết 1 sản phẩm bất kỳ
+2. Bấm mua sản phẩm",SysTem,,,,To Do
+Thêm sản phẩm vào giỏ hàng,NC-75,10332,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,3/22/2023 14:35,3/22/2023 14:35,3/22/2023 14:35,,,0,cart,"# Bấm xem quyển sách Toán 2
+# Thêm quyển sách đó vào giỏ hàng",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,,Sản phẩm được thêm vào giỏ hàng và điều hướng đến trang giỏ hàng,,,,,,,,,,NC-5,Cart,Sản phẩm được thêm vào giỏ hàng và điều hướng đến trang giỏ hàng,,,,,0|i00171:y,,BAN Sprint 3,,,,,,,,"1. Nhấn xem chi tiết một sản phẩm bất kỳ
+2. Thêm sản phẩm đó vào giỏ hàng",SysTem,,,,To Do
+Tìm kiếm sản phẩm,NC-74,10331,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,3/22/2023 14:32,3/22/2023 14:32,3/22/2023 14:32,,,0,search,"# Nhấp vào biểu tượng tìm kiếm
+# Nhập sách giáo khoa lớp 1
+# Nhấn enter",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,,Các sản phẩm liên quan đến từ khóa hiện ra,,,,,,,,,,NC-3,Search,Các sản phẩm liên quan đến từ khóa hiện ra,,,,,0|i00171:x,,BAN Sprint 3,,,,,,,,"1. Nhấp vào biểu tưởng tìm kiếm trên trang chủ
+2. Gõ từ khóa sản phẩm muốn tìm kiếm
+3. Nhấn enter",SysTem,,,pass,To Do
+Đăng nhập tài khoản,NC-73,10330,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,3/22/2023 14:28,3/22/2023 14:28,3/22/2023 14:28,,,0,Login,"# Email: tranthimaitram2021@gmail.com
+# Mật khẩu: 123456",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,,Chuyển đến trang chủ mua sắm,,,,,,,,,,NC-1,login,Chuyển đến trang chủ mua sắm,,,,,0|i00171:v,,BAN Sprint 3,,,,,,,,"1. Nhập thông tin đăng nhập
+2. Nhấn enter",SysTem,,,pass,To Do
+Đăng ký tài khoản,NC-72,10329,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,3/22/2023 14:26,3/22/2023 14:28,3/22/2023 14:28,,,0,Register,"# Tên: Trâm
+# Họ: Trần
+# Email: tranthimaitram2021@gmail.com
+# Mật khẩu: 123456
+# Nhấn nút đăng ký",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,,Chuyển đến trang thông tin tài khoản,,,,,,,,,,NC-2,Register,Chuyển đến trang thông tin tài khoản,,,,,0|i00171:r,,BAN Sprint 3,,,,,,,,"1. Điền đầy đủ thông tin trong form đăng lý
+2. Nhấn nút đăng ký",SysTem,,,pass,To Do
+Hiện thị sách theo đơn giá,NC-71,10328,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,3/22/2023 14:21,3/22/2023 14:21,3/22/2023 14:21,,,0,search,"# Vào trang chi tiết sản phẩm
+# Hiện thị sản phẩm nhỏ hơn 100,000đ",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,,Hiện thị các sản phẩm có giá dưới 100.000đ,,,,,,,,,,NC-3,Search,Hiện thị các sản phẩm có giá dưới 100.000đ,,,,,0|i00171:i,,BAN Sprint 2,,,,,,,,"1. Vào trang chi tiết sản phẩm
+2. Bấm chọn hiện thị sản phẩm nhỏ hơn 100.000đ",Integration,,,pass,To Do
+Xóa sản phẩm ra khỏi giỏ hàng,NC-70,10327,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,3/22/2023 14:18,3/22/2023 14:18,3/22/2023 14:18,,,0,cart,"# Thêm quyển sách Âm nhạc 5 vào giỏ hàng
+# Vào giỏ hàng xóa quyển sách đó đi",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,,Sản phẩm bị xóa ra khỏi giỏ hàng,,,,,,,,,,NC-5,Cart,Sản phẩm bị xóa ra khỏi giỏ hàng,,,,,0|i00172:i,,BAN Sprint 2,,,,,,,,"1) Nhấn thêm vào 1 sản phẩm
+2) Nhấn nút xóa sản phẩm trong giỏ hàng",Integration,,,pass,To Do
+Tăng số lượng sản phẩm trong giỏ hàng,NC-69,10326,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,3/22/2023 14:12,3/22/2023 14:14,3/22/2023 14:13,,,0,cart,"# Thêm quyển sách Tiếng Anh 3 vào giỏ hàng
+# Vào giỏ hàng tăng số lượng lên 2
+# Bấm cập nhật",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,,"Giỏ hàng cập nhật ảnh, giá và số lượng 2 sản phẩm",,,,,,,,,,,,"Giỏ hàng cập nhật ảnh, giá và số lượng 2 sản phẩm",,,,,0|i00172:,,,,,,,,,,"1. Thêm 1 quyển sách vào giỏ hàng
+2. Vào giỏ hàng cập nhật số lượng tăng lên 2
+3. Bấm cập nhật",Integration,,,pass,To Do
+Thêm nhiều sách nhưng khác thể ,NC-68,10325,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,3/22/2023 14:07,3/22/2023 14:07,3/22/2023 14:08,,,0,cart,"# Thêm quyển sách Tiếng Việt 1
+# Thêm quyển sách Toán 2",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,,"Giỏ hàng cập nhật ảnh, giá và số lượng 2 sản phẩm",,,,,,,,,,NC-5,Cart,"Giỏ hàng cập nhật ảnh, giá và số lượng 2 sản phẩm",,,,,0|i00171:,,BAN Sprint 2,,,,,,,,"1) Nhấn thêm 1 quyển sách vào giỏ hàng
+2) Quay về trang sản phẩm
+3) Nhấn thêm vào giỏ hàng quyển sách ",Integration,,,pass,To Do
+Thêm 1 sản phẩm nhiều lần vào giỏ hàng,NC-67,10324,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,3/22/2023 13:28,3/22/2023 14:10,3/22/2023 14:09,,,0,cart,"# Thêm vào giỏ hàng quyển sách Đắc Nhân Tâm
+# Tiếp tục thêm quyển sách đó vào giỏ hàng",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,,Cập nhật lại số lượng và tổng tiền,,,,,,,,,,NC-5,Cart,Cập nhật lại số lượng và tổng tiền,,,,,0|i0016z:,,BAN Sprint 2,,,,,,,,"1) Nhấn thêm vào 1 sản phẩm
+2) Quay về trang sản phẩm
+3) Nhấn thêm sản phẩm đã chọn trước đó vào giỏ hàng ",Integration,,,pass,To Do
+Thêm 1 sản phẩm vào giỏ hàng,NC-66,10323,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,3/22/2023 13:24,3/22/2023 14:08,3/22/2023 14:11,,,0,cart,Thêm quyển sách Luyện viết 2 vào giỏ hàng,,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,,"Sản phẩm được cập nhật chính xác với tên, hình ảnh, giá",,,,,,,,,,NC-5,Cart,"Sản phẩm được cập nhật chính xác với tên, hình ảnh, giá",,,,,0|i0018r:,,BAN Sprint 2,,,,,,,,"1. Nhấp chọn sản phẩm
+2. Nhấp thêm sản phẩm vào giỏ hàng",Integration,,,pass,To Do
+S2 Không nhập tên sản phẩm,NC-65,10322,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Tông Tran,629f583f9248fe006911b933,Tông Tran,629f583f9248fe006911b933,3/15/2023 17:28,3/15/2023 17:28,3/22/2023 13:18,,,0,search,,,Tông Tran,629f583f9248fe006911b933,,,,,,,,,NC-3,Hiển thị trang tìm kiếm ,,,,,,,,,,NC-3,Search,Hiển thị trang tìm kiếm ,,,,,0|i001jr:,,,,,,,,,,"1.Không nhập tên sản phẩm 
+2. Tìm kiếm ",Unit,,,pass,To Do
+"L10 Nếu email không tồn tại, hệ thống sẽ báo lỗi",NC-63,10320,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Tông Tran,629f583f9248fe006911b933,Tông Tran,629f583f9248fe006911b933,2/21/2023 19:52,2/21/2023 19:56,3/19/2023 14:08,,,0,Login,email test : tnerworjndsf@gmail.com,,Tông Tran,629f583f9248fe006911b933,,,,,,,,,,"hệ thống báo lỗi, email không hợp lệ",,,,,,,,,,NC-1,login,"Hệ thống sẽ báo lỗi, email không tồn tại ",,purple,,,0|i001jb:,,,,,,,,,,"1.chọn quên mật khẩu
+2. nhập email
+3.Enter",Integration,,,pass,To Do
+R1 - Hệ thống sẽ báo lỗi khi email đã tồn tại,NC-61,10318,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,,,Tông Tran,629f583f9248fe006911b933,Tông Tran,629f583f9248fe006911b933,2/21/2023 19:00,2/21/2023 19:39,2/21/2023 19:39,,,0,,,,Tông Tran,629f583f9248fe006911b933,,,,,,,,,,"Email đã tồn tại. Nếu bạn quên mật khẩu, bạn có thể thiết lập lại mật khẩu tại đây.",,,,,,,,,,NC-2,Register,Hệ thống sẽ báo lỗi ,,purple,,,0|i001iv:,,,,,,,,,,"1. Nhập các trường trong form đăng ký
+2.Enter",Integration,,,,To Do
+B33 không được quá số lượng giới hạn,NC-60,10317,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 17:10,2/21/2023 18:45,2/19/2023 19:15,,,0,cart,Thêm 90000 sản phẩm Thanh tịnh mâm cỗ Việt,,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-5,CACHEP.VN hiện chỉ còn 3 sản phẩm Thanh tịnh mâm cỗ Việt trong kho,,,,,,,,,,NC-5,Cart,Không được thêm sản phẩm quá số lượng giới hạn,,,,,0|i001in:,,,,,,,,,,"1. Chọn sản phẩm Thanh tịnh mâm cỗ Việt
+2. Thêm 90000 sản phẩm",Unit,,,pass,To Do
+B23 Số điện thoại không chứa kí tự đặc biệt,NC-55,10312,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,2/19/2023 17:05,2/21/2023 18:47,3/22/2023 14:52,,,0,Buy,Nhập số điện thoại là “@#!$%”,,Tuyến,62995de12eafc9006eed5d36,,,,,,,,,NC-4,Số điện thoại không đúng,,,,,,,,,,NC-4,Buy,Số điện thoại không đúng,,,,,0|i001ff:,,,,,,,,,,"1. Nhập số điện thoại là ""@#!$%""
+2. Thanh toán",Unit,,,pass,To Do
+B31 Số điện thoại không chứa kí tự,NC-54,10311,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,2/19/2023 17:04,2/21/2023 18:49,3/22/2023 14:52,,,0,Buy,Nhập số điện thoại là “abcde”,,Tuyến,62995de12eafc9006eed5d36,,,,,,,,,NC-4,Số điện thoại không đúng,,,,,,,,,,NC-4,Buy,Số điện thoại không đúng,,,,,0|i001hb:,,,,,,,,,,"1. Nhập số điện thoại là ""abcde""
+2. Thanh toán",Unit,,,pass,To Do
+B30 Gmail không chứa kí tự đặc biệt,NC-53,10310,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,2/19/2023 17:04,2/21/2023 18:48,3/22/2023 14:52,,,0,Buy,Nhập gmail nhưng không nhập @gmail.com “abc123”,,Tuyến,62995de12eafc9006eed5d36,,,,,,,,,NC-4,Gmail không đúng,,,,,,,,,,NC-4,Buy,Sai gmail,,,,,0|i001h3:,,,,,,,,,,"1. Nhập abc123
+2. Thanh toán",Unit,,,pass,To Do
+B29 Gmail phải có @gmail.com,NC-52,10309,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,2/19/2023 17:03,2/21/2023 18:48,3/22/2023 14:52,,,0,Buy,Nhập gmail nhưng không nhập @gmail.com “abc123”,,Tuyến,62995de12eafc9006eed5d36,,,,,,,,,NC-4,Gmail không đúng,,,,,,,,,,NC-4,Buy,Sai gmail,,,,,0|i001gv:,,,,,,,,,,"1. Nhập abc123
+2. Thanh toán",Unit,,,pass,To Do
+B28 Quận/huyện không được để trống,NC-51,10308,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,2/19/2023 17:03,2/21/2023 18:48,3/22/2023 14:52,,,0,Buy,Không nhập thông tin quận huyện,,Tuyến,62995de12eafc9006eed5d36,,,,,,,,,NC-4,Vui lòng nhập quận huyện,,,,,,,,,,NC-4,Buy,Quận huyện không được để trống,,,,,0|i001gn:,,,,,,,,,,"1. Không nhập thông tin quận huyện
+2. Thanh toán",Unit,,,pass,To Do
+B27 Tỉnh không được để trống,NC-50,10307,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,2/19/2023 17:02,2/21/2023 18:48,3/22/2023 14:52,,,0,Buy,Không nhập thông tin tỉnh,,Tuyến,62995de12eafc9006eed5d36,,,,,,,,,NC-4,Vui lòng chọn tỉnh thành,,,,,,,,,,NC-4,Buy,Tỉnh không được trống,,,,,0|i001gf:,,,,,,,,,,"1. Không nhập thông tin tỉnh
+2. Thanh toán",Unit,,,pass,To Do
+B26 Phường/xã không được để trống,NC-49,10306,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,2/19/2023 17:02,2/21/2023 18:48,3/22/2023 14:52,,,0,Buy,Không nhập phường/xã,,Tuyến,62995de12eafc9006eed5d36,,,,,,,,,NC-4,Please enter your ward,,,,,,,,,,NC-4,Buy,Phường xã không được để trống,,,,,0|i001g7:,,,,,,,,,,"1. Không nhập thông tin phường xã
+2. Thanh toán",Unit,,,pass,To Do
+B25 Địa chỉ không được để trống,NC-48,10305,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,2/19/2023 17:01,2/21/2023 18:48,3/22/2023 14:52,,,0,Buy,Không nhập địa chỉ,,Tuyến,62995de12eafc9006eed5d36,,,,,,,,,NC-4,Địa chỉ không được để trống,,,,,,,,,,NC-4,Buy,Địa chỉ không được để trống,,,,,0|i001fz:,,,,,,,,,,"1. Không nhập thông tin địa chỉ
+2. Thanh toán",Unit,,,pass,To Do
+B24 Gmail không tồn tại,NC-45,10302,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,2/19/2023 16:59,2/21/2023 18:48,3/22/2023 14:52,,,0,Buy,Nhập “abc123”,,Tuyến,62995de12eafc9006eed5d36,,,,,,,,,NC-4,Gmail không đúng,,,,,,,,,,NC-4,Buy,Gmail không tồn tại,,,,,0|i001fj:,,,,,,,,,,"1. Nhập gmail ""abc""
+2. Thanh toán",Unit,,,pass,To Do
+B32 Sản phẩm không còn hàng,NC-44,10301,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 16:59,2/21/2023 18:49,3/22/2023 14:52,,,0,cart,Thêm sản phẩm vào giỏ hàng,,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-5,Không thể thêm sản phẩm,,,,,,,,,,NC-5,Cart,Không thể thêm sản phẩm,,,,,0|i001fb:,,,,,,,,,,"1. Vào sản phẩm cần thêm vào giỏ hàng
+2. Thêm sản phẩm",Unit,,,pass,To Do
+S20 Sản phẩm hết hàng,NC-43,10300,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,2/19/2023 16:57,2/21/2023 18:47,2/19/2023 19:14,,,0,Search,Nhập sản phẩm “ Vở chính tả “,,Tuyến,62995de12eafc9006eed5d36,,,,,,,,,NC-3,Tìm thấy sản phẩm nhưng sản phẩm hiển thị sắp có hàng,,,,,,,,,,NC-3,Search,Tìm thấy sản phẩm nhưng không còn mặt hàng,,,,,0|i001e7:,,,,,,,,,,"1. Nhập thông tin sản phẩm cần tìm kiếm
+2. Tìm kiếm",Unit,,,pass,To Do
+B22 Số điện thoại không được để trống,NC-41,10298,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 16:56,2/21/2023 18:47,2/19/2023 19:18,,,0,buy,Để trống số điện thoại,,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-4,Số điện thoại không để trống,,,,,,,,,,NC-4,Buy,Số điện thoại không được để ,,,,,0|i001ev:,,,,,,,,,,"1. Không nhập số điện thoại
+2. Thanh toán",Unit,,,pass,To Do
+S21 Sản phẩm không tồn tại ,NC-39,10296,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Tuyến,62995de12eafc9006eed5d36,Tuyến,62995de12eafc9006eed5d36,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 16:55,2/21/2023 18:47,2/19/2023 19:18,,,0,search,Nhập tên sản phẩm: aaaaaa,,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-3,"KHÔNG TÌM THẤY KẾT QUẢ TÌM KIẾM PHÙ HỢP CHO:
+NHÓM SẢN PHẨM: AAAAA / TỪ KHÓA: AAAAA",,,,,,,,,,NC-3,Search,Sản phẩm không tồn tại,,,,,0|i001ef:,,,,,,,,,,"1. Nhập thông tin sản phẩm
+2. Tìm kiếm",Unit,,,pass,To Do
+R11 Mật khẩu ít nhất 5 kí tự,NC-30,10287,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 16:48,2/21/2023 18:49,2/19/2023 19:22,,,0,Register,"tên:vinh
+
+họ:nguyễn
+
+email:vinh@gmail.com
+
+mật khẩu:122",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-2,Mật khẩu ngắn tối thiêu 5 kí tự,,,,,,,,,,NC-2,Register,Mật khẩu quá ngắn,,,,,0|i0017n:,,,,,,,,,,"1.nhập mật khẩu
+2.enter",Unit,,,pass,To Do
+L1 Xác minh xem người dùng có thể cập nhật thông tin của họ,NC-28,10285,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 16:44,2/21/2023 18:45,3/22/2023 13:18,,,0,Login,"Nhập tên đăng nhâp: [yoshogenji232@gmail.com|mailto:yoshogenji232@gmail.com]
+
+Nhập mật khẩu: 0386956746Tanqtyn.",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-1,Có thể chỉnh sửa tài khoản của mình,,,,,,,,,,NC-1,login,Có thể chình sửa tài khoản của mình,,,,,0|i00173:,,,,,,,,,,"1. Đăng nhập thành công
+2. Vào trang tài khoản chỉnh sửa",Unit,,,pass,To Do
+L9 Đăng xuất thành công,NC-26,10283,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 16:43,2/21/2023 18:48,2/19/2023 19:21,,,0,Login,"Nhập tên đăng nhâp: [yoshogenji232@gmail.com|mailto:yoshogenji232@gmail.com]
+
+Nhập mật khẩu: 0386956746Tanqtyn.",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-1,Đăng xuất thành công,,,,,,,,,,NC-1,login,Đăng xuất thành công,,,,,0|i001bj:,,,,,,,,,,"1. Đăng nhập thành công
+2. Chọn nút đăng xuất",Unit,,,pass,To Do
+L8 Duy trì thông tin đăng nhập khi refesh trang ,NC-25,10282,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 15:54,2/21/2023 18:48,2/19/2023 19:21,,,0,Login,"Nhập tên đăng nhâp: [yoshogenji232@gmail.com|mailto:yoshogenji232@gmail.com]
+
+Nhập mật khẩu: 0386956746Tanqtyn.",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-1,Tài khoản vẫn được giữ nguyên,,,,,,,,,,NC-1,login,Vẫn giữ nguyên tài khoản đã đăng nhập,,,,,0|i001bb:,,,,,,,,,,"1. Đăng nhập thành công
+2. Refesh lại trang",Unit,,,pass,To Do
+L7 Đăng nhập hợp lệ,NC-24,10281,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 15:53,2/21/2023 18:48,2/19/2023 19:21,,,0,Login,"Nhập tên đăng nhập : [yoshogenji232@gmail.com|mailto:yoshogenji232@gmail.com]
+
+Nhập mật khẩu: 0386956746Tanqtyn.",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-1,Đăng nhập thành công chuyển tới trang chủ,,,,,,,,,,NC-1,login,Đăng nhập thành công,,,,,0|i001b3:,,,,,,,,,,"1. Nhập tên đăng nhập
+2. Nhập mật khẩu
+3. Nhấn enter",Unit,,,pass,To Do
+L6 Mất mật khẩu và dùng email để lấy lại mật khẩu ,NC-23,10280,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 15:53,2/21/2023 18:48,2/19/2023 19:21,,,0,Login,Nhập email : mixivinh@[gmail.com|http://gmail.com],,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-1,"Nhập mật khẩu đã đăng ký, mật khẩu mới gửi lại về eamil",,,,,,,,,,NC-1,login,"Nhập mật khẩu đã đăng ký, mật khẩu mới gửi lại về eamil",,,,,0|i001av:,,,,,,,,,,"1. Nhập email nhưng quên mật khẩu
+2. Nhấp vào dòng chữ quên mật khẩu",Unit,,,pass,To Do
+R19 Gmail không tồn tại,NC-22,10279,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 15:51,2/21/2023 18:50,2/19/2023 19:13,,,0,Register,"Tên:vinh
+
+Họ:nguyễn
+
+[Email: 1213234aaa#3a@gmail.com|mailto:Email:mixivinh@gmail.com]
+
+Mật khẩu:123456",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-2,Email không tồn tại,,,,,,,,,,NC-2,Register,Email không hợp lệ,,,,,0|i001an:,,,,,,,,,,"1.nhập các trường trong form đăng ký
+2.enter",Unit,,,pass,To Do
+R10 Gmail có khoảng trắng,NC-20,10277,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 15:50,2/21/2023 18:48,3/22/2023 13:18,,,0,Register,Email:11231 22@gmail.com,,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-2,A part of symbol '@' cant contain ' ' ,,,,,,,,,,NC-2,Register,Email không tồn tại,,,,,0|i0017l:,,,,,,,,,,"1.nhập email
+2.enter",Unit,,,pass,To Do
+R18 Email bị sai cấu trúc,NC-18,10275,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 15:47,2/21/2023 18:50,2/19/2023 19:13,,,0,Register,"Tên:vinh
+
+Họ:nguyễn
+
+[Email:mixivinh@gml.com|mailto:Email:mixivinh@gmail.com]
+
+Mật khẩu:123456",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-2,Email không tồn tại,,,,,,,,,,NC-2,Register,Sai email,,,,,0|i0019r:,,,,,,,,,,"1.nhập các trường trong form đăng ký
+2.enter",Unit,,,pass,To Do
+R17 Email đã tồn tại,NC-17,10274,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 15:45,2/21/2023 18:50,2/19/2023 19:12,,,0,Register,"Tên:vinh
+
+Họ:nguyễn
+
+[Email:mixivinh@gmail.com|mailto:Email:mixivinh@gmail.com]
+
+Mật khẩu:123456",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-2,Email đã tồn tại,,,,,,,,,,NC-2,Register, Thông báo email đã tồn tại,,,,,0|i0019j:,,,,,,,,,,"1.Đăng kí
+2.Nhấp enter",Unit,,,pass,To Do
+R16 Mật khẩu không được để trống,NC-16,10273,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 15:44,2/21/2023 18:49,2/19/2023 19:11,,,0,Register,"Tên:Vinh
+
+Họ:nguyễn
+
+[Email:12123123@gmail.com|mailto:Email:12123123@gmail.com]
+
+mật khẩu:",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-2,Dữ liệu không hợp lệ,,,,,,,,,,NC-2,Register,Không để trống mật khẩu,,,,,0|i0019b:,,,,,,,,,,"1. Nhập các thông tin có trong form đăng ký nhưng để trống trường mật khẩu
+2. Nhấp enter",Unit,,,pass,To Do
+R15 Email không được để trống,NC-15,10272,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 15:38,2/21/2023 18:49,2/19/2023 19:11,,,0,Register,"Tên:Vinh
+
+Họ:Nguyễn
+
+Email:
+
+Mật Khẩu:123456",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-2,Dữ Liệu không hợp lệ,,,,,,,,,,NC-2,Register,Không được để trống Email,,,,,0|i00193:,,,,,,,,,,"1. Nhập các thông tin có trong form đăng ký nhưng để trống trường Email
+2. Nhấp enter",Unit,,,pass,To Do
+R14 Không được để trống trường Họ,NC-14,10271,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 15:37,2/21/2023 18:49,2/19/2023 19:09,,,0,Register,"Tên: Trâm
+
+Họ:
+
+Email: [tram123@gmail.com|mailto:tram123@gmail.com]
+
+Mật khẩu: 123456",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-2,Dữ liệu không hợp lệ,,,,,,,,,,NC-2,Register,Không được để trống trường Họ,,,,,0|i0018v:,,,,,,,,,,"1. Nhập các thông tin có trong form đăng ký nhưng để trống trường Họ
+2. Nhấp enter",Unit,,,pass,To Do
+L5 Email đăng nhập không trùng với email đăng ký,NC-13,10270,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 15:35,2/21/2023 18:53,3/22/2023 13:18,,,0,Login,"Email đăng nhập: 123@gmail.com
+
+Email đăng ký: [mixivinh@ gmail.com|mailto:mixivinh@gmail.com]",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,NC-1,Thông tin đăng nhập không hợp lệ,,,,,,,,,,NC-1,login,Email đăng nhập không tồn tại,,,,,0|i0018n:,,,,,,,,,,"1. Nhập email
+2. Nhấn entern",Unit,,,pass,To Do
+R13 Không được để trống trường Tên,NC-12,10269,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,2/19/2023 15:32,2/21/2023 18:49,3/22/2023 14:52,,,0,Register,"Tên:
+
+Họ: Trần
+
+Email: tram@gmail.com
+
+Mật khẩu: 123456",,Mixi Vinh,62a2a26de318a50069397d79,,,,,,,,,,Dữ liệu không hợp lệ,,,,,,,,,,NC-2,Register,Không được để trống trường Tên,,,,,0|i0018f:,,,,,,,,,,"1.Nhập các trường trong đăng ký nhưng bỏ qua trường tên.
+2. Nhấp enter",Unit,,,pass,To Do
+L4 Không được để mật khẩu trống,NC-10,10267,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Tùng Ngố,62960b7b1648f2006961e090,2/19/2023 15:27,2/21/2023 18:47,2/19/2023 19:20,,,0,Login,Mật khẩu: “ “,,Tùng Ngố,62960b7b1648f2006961e090,,,,,,,,,NC-1,Mật khẩu không được để trống,,,,,,,,,,NC-1,login,Thông tin đnagư nhập không hợp lệ,,,,,0|i0017z:,,,,,,,,,,"1.Nhấp vào ô mật khẩu và để trống
+2.enter",Unit,,,pass,To Do
+R12 Quá thời gian đăng ký,NC-9,10266,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Tùng Ngố,62960b7b1648f2006961e090,Tùng Ngố,62960b7b1648f2006961e090,2/19/2023 15:23,2/21/2023 18:49,2/21/2023 18:52,,,0,Register,"Tên: TTMT
+
+Họ: tran",,Tùng Ngố,62960b7b1648f2006961e090,,,,,,,,,,"Yêu cầu không hợp lệ, hoặc quá hạn mời bạn thử lại",,,,,,,,,,NC-2,Register,"Quá thời gian đăng ký, đăng ký không thành công",,,,,0|i0017r:,,,,,,,,,,"1. Nhập tên và họ
+2. Đợi 5 phút sau nhập email và mật khẩu
+3. Nhấp enter",Unit,,,pass,To Do
+L3 Tên đăng nhập không trùng với tên đăng ký ,NC-8,10265,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Tùng Ngố,62960b7b1648f2006961e090,2/19/2023 15:17,2/21/2023 18:47,3/22/2023 13:18,,,0,,Tên đăng nhập:zinkngu@gmail.com,,Tùng Ngố,62960b7b1648f2006961e090,,,,,,,,,,Thông tin đăng nhập không hợp lệ,,,,,,,,,,NC-1,login,Tên đăng nhập không hợp lệ,,purple,,,0|i0017j:,,,,,,,,,,"1.Nhập tên đăng nhập
+2.Enter",Unit,,,pass,To Do
+L2 Tên đăng nhập không có khoảng trống,NC-7,10264,Story,To Do,NC,N3_CD21CT8,software,Tùng Ngố,62960b7b1648f2006961e090,,Medium,,Mixi Vinh,62a2a26de318a50069397d79,Mixi Vinh,62a2a26de318a50069397d79,Tùng Ngố,62960b7b1648f2006961e090,2/19/2023 15:16,2/21/2023 18:47,3/22/2023 13:18,,,0,Login,Tên đăng nhập: [mixivinh@ gmail.com|mailto:mixivinh@gmail.com],,Tùng Ngố,62960b7b1648f2006961e090,,,,,,,,,,Thông tin đăng nhập không hợp lệ,,,,,,,,,,NC-1,login,Tên đăng nhập không hợp lệ,,purple,,,0|i0017b:,,,,,,,,,,"1. Nhập tên đăng nhập
+2. Enter",Unit,,,pass,To Do
